@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/nvzqz/FileKit.git",
       "state" : {
-        "revision" : "826d9161b184509f80d85c28cd612d630646de98",
-        "version" : "6.0.0"
+        "revision" : "9006d2888025fbe893c3c396327b2fe45a8c177b",
+        "version" : "6.1.0"
       }
     },
     {
@@ -41,8 +41,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/OAuthSwift/OAuthSwift.git",
       "state" : {
-        "revision" : "d85964b96dbce94df961f28b996187c835089903",
-        "version" : "2.2.0"
+        "branch" : "master",
+        "revision" : "a04f7b78e3160b7ee1c46720d8c51c6e97dda2cf"
       }
     },
     {

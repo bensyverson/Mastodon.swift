@@ -17,11 +17,12 @@ let package = Package(
             targets: ["MastodonSwift"]),
     ],
     dependencies: [
+
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
         .package(
             url: "https://github.com/OAuthSwift/OAuthSwift.git",
-            .upToNextMajor(from: "2.2.0")
+			branch: "master"
         )
     ],
     targets: [
